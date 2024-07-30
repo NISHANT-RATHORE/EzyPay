@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f37f82a4-dfb1-48f4-9454-70b751bab78f" name="Changes" comment="" />
+    <list default="true" id="f37f82a4-dfb1-48f4-9454-70b751bab78f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/main/java/org/example/userservice/configuration/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/java/org/example/userservice/configuration/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/main/java/org/example/userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/java/org/example/userservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/main/java/org/example/userservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/java/org/example/userservice/service/UserService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,11 +52,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NISHANT-RATHORE&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NISHANT-RATHORE/E-Wallet.git&quot;,
+    &quot;accountId&quot;: &quot;bb254c8a-6fd6-4c72-863a-24de6d186faa&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2jp5o9IvjLGCg5xTyBkTZmLu2uN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,27 +80,32 @@
   "keyToString": {
     "Gradle.Build NotificationService.executor": "Run",
     "Gradle.Build UserService.executor": "Run",
+    "Gradle.Build WalletService.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.NotificationServiceApplication.executor": "Run",
     "Spring Boot.UserServiceApplication.executor": "Run",
+    "Spring Boot.WalletServiceApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "22",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nisha/OneDrive/Desktop/DSA/Contest",
+    "last_opened_file_path": "C:/Users/nisha/OneDrive/Desktop/JBDL/Projects/E-Wallet/WalletService/src/main/java/org/example/walletservice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nisha\OneDrive\Desktop\JBDL\Projects\E-Wallet\WalletService\src\main\java\org\example\walletservice" />
       <recent name="C:\Users\nisha\OneDrive\Desktop\JBDL\Projects\E-Wallet\NotificationService\src\main\java\org\example\notificationservice\constant" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -86,7 +113,16 @@
       <recent name="org.example.notificationservice.configuration" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.NotificationServiceApplication">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserServiceApplication">
     <configuration name="NotificationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="NotificationService.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.notificationservice.NotificationServiceApplication" />
@@ -97,6 +133,13 @@
     <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="UserService.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="WalletService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.walletservice.WalletServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,7 +163,8 @@
       <updated>1722071363348</updated>
       <workItem from="1722071374630" duration="19938000" />
       <workItem from="1722173580033" duration="35000" />
-      <workItem from="1722246604430" duration="2732000" />
+      <workItem from="1722246604430" duration="6853000" />
+      <workItem from="1722300034056" duration="190000" />
     </task>
     <servers />
   </component>
