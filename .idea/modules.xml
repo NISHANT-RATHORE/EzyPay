@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/E-Wallet.iml" filepath="$PROJECT_DIR$/.idea/E-Wallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionService/TransactionService.iml" filepath="$PROJECT_DIR$/TransactionService/TransactionService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WalletService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WalletService.main.iml" />
     </modules>
   </component>
 </project>

@@ -21,7 +21,7 @@ public class UserController {
     }
 
     @GetMapping("/user")
-    public User gerUser(@RequestParam("phoneno") String phoneno){
-        return userService.getUser(phoneno);
+    public User gerUser(@RequestParam("phoneNo") String phoneNo){
+        return userService.getUser(phoneNo);
     }
 }
