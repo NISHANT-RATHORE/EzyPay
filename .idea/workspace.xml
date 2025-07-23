@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f37f82a4-dfb1-48f4-9454-70b751bab78f" name="Changes" comment="" />
+    <list default="true" id="f37f82a4-dfb1-48f4-9454-70b751bab78f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,12 +56,12 @@
     &quot;assignee&quot;: &quot;NISHANT-RATHORE&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/NISHANT-RATHORE/E-Wallet.git&quot;,
-    &quot;accountId&quot;: &quot;bb254c8a-6fd6-4c72-863a-24de6d186faa&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NISHANT-RATHORE/EzyPay",
+    "accountId": "dafc0870-49f3-4816-a0dc-f253d7cb4fb9"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -79,6 +84,7 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.NotificationServiceApplication.executor": "Run",
     "Spring Boot.UserServiceApplication.executor": "Run",
@@ -86,7 +92,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "22",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nisha/OneDrive/Desktop/JBDL/Projects/E-Wallet/WalletService/src/main/java/org/example/walletservice",
+    "last_opened_file_path": "C:/Users/HP/Desktop/projects/EzyPay/.github/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,6 +104,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\projects\EzyPay\.github\assets" />
       <recent name="C:\Users\nisha\OneDrive\Desktop\JBDL\Projects\E-Wallet\WalletService\src\main\java\org\example\walletservice" />
       <recent name="C:\Users\nisha\OneDrive\Desktop\JBDL\Projects\E-Wallet\NotificationService\src\main\java\org\example\notificationservice\constant" />
     </key>
@@ -141,8 +148,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26574.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26574.91" />
       </set>
     </attachedChunks>
   </component>
@@ -158,6 +165,7 @@
       <workItem from="1722173580033" duration="35000" />
       <workItem from="1722246604430" duration="6853000" />
       <workItem from="1722300034056" duration="2846000" />
+      <workItem from="1753294833963" duration="539000" />
     </task>
     <servers />
   </component>

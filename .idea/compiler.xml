@@ -10,5 +10,10 @@
         <module name="WalletService.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="NotificationService" target="22" />
+      <module name="NotificationService.main" target="22" />
+      <module name="NotificationService.test" target="22" />
+    </bytecodeTargetLevel>
   </component>
 </project>
